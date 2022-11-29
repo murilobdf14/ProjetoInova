@@ -1,0 +1,23 @@
+#menuSandwich{
+        margin-left:20px;
+        margin-top:12px;
+        position: absolute;
+        left: 0;
+}
+
+#logoInova{
+        width:150px;
+
+}
+
+#filtros{
+        margin-top:10px;
+}
+
+#search1{
+        width:90%
+}
+
+#content{
+        justify-content: center;
+}
